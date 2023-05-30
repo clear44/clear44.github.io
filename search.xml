@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>数据包</title>
-    <url>/2023/05/27/Web%E5%AE%89%E5%85%A8/02-%E6%95%B0%E6%8D%AE%E5%8C%85/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>序列密码</title>
-    <url>/2023/05/27/%E5%AF%86%E7%A0%81%E5%AD%A6/01-%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>概念名词</title>
     <url>/2023/05/27/Web%E5%AE%89%E5%85%A8/01-%E6%A6%82%E5%BF%B5%E5%90%8D%E8%AF%8D/</url>
     <content><![CDATA[<h1 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h1><h2 id="什么是域名"><a href="#什么是域名" class="headerlink" title="什么是域名"></a>什么是域名</h2><p>​	域名是互联网上标识和定位网站的字符串，它是由一系列按照特定规则组合的字符构成的。通过域名，用户可以轻松访问网站，而不需要记住其复杂的IP地址。从网络安全的角度来看，域名在以下方面发挥重要作用：</p>
@@ -255,5 +245,24 @@
 <li>插件和扩展漏洞：Web应用程序常常使用各种插件和扩展来增加功能和定制化。但是，某些插件和扩展可能存在漏洞，可能导致数据泄露、远程代码执行等安全问题。</li>
 </ol>
 ]]></content>
+      <categories>
+        <category>Web安全</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>数据包</title>
+    <url>/2023/05/27/Web%E5%AE%89%E5%85%A8/02-%E6%95%B0%E6%8D%AE%E5%8C%85/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Web安全</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>序列密码</title>
+    <url>/2023/05/27/%E5%AF%86%E7%A0%81%E5%AD%A6/01-%E5%BA%8F%E5%88%97%E5%AF%86%E7%A0%81/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>密码学</category>
+      </categories>
   </entry>
 </search>
